@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Creates Lines with ease">
+    <Position X="8.271" Y="1.76" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Main Player class&#xD;&#xA;All player attributes are here (for example, fuel,move speed etc...)">
+    <Position X="6.292" Y="1.781" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="All objects are made with PhysicsBody.  This Creates a &quot;Square&quot; (4 lines) and customises the length and width.  This body can be placed anywhere and has collision with the Player">
+    <Position X="3.896" Y="1.344" Height="1.229" Width="2.2" />
+  </Comment>
+  <Comment CommentText="This Class manages what is drawn on the Scene from the level.  For example, the menu &quot;level&quot; will  have only the menu, then going to level 1, all the walls and stars will be drawn.">
+    <Position X="10.25" Y="1.375" Height="1.24" Width="2.252" />
+  </Comment>
+  <Class Name="PhysicsBody">
+    <Position X="4" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>oAAYAAoAAIAQgBQAFNCAAABAAFAECDMIAQBhAAAAYAE=</HashCode>
+      <FileName>PhysicsBody.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="6.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAE4AAKAABgAgDQgFQCA0EBQAFAAAAEIYQBpBQNAYBA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line">
+    <Position X="8.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAxAAAACIAwABAAABAAA=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAEAAAAgQAAAAAAAAAEBFCSABAEkABQAAAhAgAAA=</HashCode>
+      <FileName>LevelManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

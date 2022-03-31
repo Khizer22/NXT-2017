@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GameTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Player.cpp
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(69): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(153): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\player.cpp(165): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PhysicsBody.cpp
+d:\gamedev\ubisoftnxt\khizer\asteroiddrivingschool\gametest\physicsbody.cpp(78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Line.cpp
+  LevelManager.cpp
+  Game.cpp
+  SimpleSound.cpp
+  SimpleController.cpp
+  main.cpp
+  app.cpp
+  Generating Code...
+  GameTest.vcxproj -> D:\GameDev\UbisoftNXT\Khizer\AsteroidDrivingSchool\x64\Debug\Asteroid.exe
+  GameTest.vcxproj -> D:\GameDev\UbisoftNXT\Khizer\AsteroidDrivingSchool\x64\Debug\Asteroid.pdb (Full PDB)
+  D:\GameDev\UbisoftNXT\Khizer\AsteroidDrivingSchool\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
